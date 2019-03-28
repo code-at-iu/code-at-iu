@@ -1,7 +1,7 @@
 
 .program-div{
     border-bottom: 1px solid  #24253A;
-    height: 200px; 
+    height: 225px; 
    display: grid;
    grid-template-columns: 30% 70%;
 }
