@@ -1,11 +1,22 @@
 {
   "name": "code-at-iu",
   "version": "1.0.0",
-  "description": "code at iu static site",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-at-iu/code-at-iu.git"
   },
   "author": "Andy Niewiarowski",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-at-iu-website/issues"
+  },
+  "homepage": "https://github.com/code-at-iu-website/",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
