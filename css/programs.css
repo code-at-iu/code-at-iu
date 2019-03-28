@@ -39,6 +39,11 @@
     width: 90%;
 }
 
+.bottom-div{
+    margin-bottom: 90px;
+    border: none !important;
+}
+
 
 
   @media screen and (max-width: 800px) { 
